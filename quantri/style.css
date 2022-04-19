@@ -1,0 +1,30 @@
+.xoa{
+    border:1px solid black;
+    background-color:blue;
+    color:white;
+}
+.xoa:hover{
+    text-decoration: none;
+    background-color: White;
+    color:red;
+}
+.xem{
+    border:1px solid black;
+    background-color:#0DB7EA;
+    color:white; 
+}
+.xem:hover{
+    text-decoration: none;
+    background-color: White;
+    color:black;
+}
+.sua{
+    border:1px solid black;
+    background-color:black;
+    color:white;
+}
+.sua:hover{
+    text-decoration: none;
+    background-color: White;
+    color:black;
+}
